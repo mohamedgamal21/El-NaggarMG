@@ -22,49 +22,6 @@ header {
 .span1 {
     color: rgb(0, 0, 255);
 }
-/* .container {
-    width: 100%;
-    background-color: blue;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 100px;
-}
-.container input {
-    width: 60%;
-    height: 80px;
-}
-.history {
-    position: relative;
-    left: -60.3%;
-    top: -27px;
-}
-.no {
-    position: relative;
-    left: -5%;
-    top: 24px;
-    font-size: xx-large;
-}
-.button {
-    margin: 0 100px;
-    width: 50%;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-}
-.button-container {
-    display: flex;
-    justify-content: center;
-    width: 40%;
-    flex-direction: column;
-}
-.section, .section1 {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    place-items: center;
-} */
 table {
     border: 1px solid hidden;
     margin-left: auto;
@@ -81,16 +38,6 @@ input[type="button"] {
     border: none;
     border-radius: 5px;
 }
-/* input[type="button1"] {
-    width: 100%;
-    padding: 20px 40px;
-    background-color: #000 !important;
-    color: #fff !important;
-    font-size: 24px;
-    font-weight: bold;
-    border: none;
-    border-radius: 5px; */
-/* } */
 
 input[type="text"] {
     padding: 20px 30px;
